@@ -1,0 +1,12 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "Complete deep Dive into Backend development",
+  "license": "ISC",
+  "author": "Swastik Roy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
